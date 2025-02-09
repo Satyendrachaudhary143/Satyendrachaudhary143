@@ -11,8 +11,8 @@
 - 📫 How to reach me **satyendrachaudhary38@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  "https://www.instagram.com/satyendrachaudhary143?igsh=YzljYTk1ODg3Zg=="
+<p align="right">
+[https://satyendra-theta.vercel.app/](https://satyendra-theta.vercel.app/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
