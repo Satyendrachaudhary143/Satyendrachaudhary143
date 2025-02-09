@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **satyendrachaudhary38@gmail.com**
 
-<h3 align="left">Connect with me:</h3> - [https://satyendra-theta.vercel.app/](https://satyendra-theta.vercel.app/)
+<h3 align="left">Connect with me:</h3>  https://satyendra-theta.vercel.app/](https://satyendra-theta.vercel.app/
 
 
 <h3 align="left">Languages and Tools:</h3>
