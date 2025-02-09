@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satyendra chaudhary</h1>
 <h3 align="center">A full-stack web developer proficient in both front-end and back-end development, skilled in HTML, CSS, JavaScript, and various server-side languages and frameworks. With the ability to manage databases, servers, and APIs, I create seamless, responsive websites and applications, ensuring optimal performance and user experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyendrachaudhary143&label=Profile%20views&color=0e75b6&style=flat" alt="satyendrachaudhary143" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyendrachaudhary143" alt="satyendrachaudhary143" /></a> </p>
-
-- 🔭 I’m currently working on [School Management System(User login,Teacher login ,Manager login,User track :fees,Attendence,Exam notification,timetable,Marksheet and many more....](currently on wrking)
+- 🔭 I’m currently working on [School Management System](currently on wrking)
 
 - 🌱 I’m currently learning **Machine learning**
 
