@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [School Management System](currently on wrking)
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently in **BCA**
 
 - 👨‍💻 All of my projects are available at [https://satyendra-theta.vercel.app/](https://satyendra-theta.vercel.app/)
 
