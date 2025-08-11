@@ -1,22 +1,109 @@
-<h1 align="center">Hi 👋, I'm Satyendra chaudhary</h1>
-<h3 align="center">A full-stack web developer proficient in both front-end and back-end development, skilled in HTML, CSS, JavaScript, and various server-side languages and frameworks. With the ability to manage databases, servers, and APIs, I create seamless, responsive websites and applications, ensuring optimal performance and user experience.</h3>
+# 👋 Hi, I'm Satyendra Chaudhary
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Web+Developer;BCA+Student;Passionate+Coder" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on [School Management System](currently on wrking)
+## 🚀 About Me
 
-- 🌱 I’m currently in **BCA**
+I'm a passionate **Full-Stack Web Developer** currently pursuing my **BCA** degree. I specialize in creating seamless, responsive websites and applications with a focus on optimal performance and exceptional user experience. My expertise spans both front-end and back-end development, allowing me to build complete solutions from concept to deployment.
 
-- 👨‍💻 All of my projects are available at [https://satyendra-theta.vercel.app/](https://satyendra-theta.vercel.app/)
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **satyendrachaudhary38@gmail.com**
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2496ED?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyendrachaudhary143&show_icons=true&locale=en&layout=compact" alt="satyendrachaudhary143" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyendrachaudhary143&show_icons=true&locale=en" alt="satyendrachaudhary143" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyendrachaudhary&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyendrachaudhary&theme=radical" alt="GitHub Streak" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyendrachaudhary143&" alt="satyendrachaudhary143" /></p>
+## 🚧 Current Projects
+
+- 🔨 **[School Management System](https://github.com/satyendrachaudhary/school-management-system)** - A comprehensive web-based school management solution (Currently in development)
+- 🌐 **[Personal Portfolio](https://satyendra-theta.vercel.app/)** - My professional portfolio website
+
+## 📚 Education
+
+- **Bachelor of Computer Applications (BCA)** - Currently pursuing
+- **Full-Stack Web Development** - Self-taught through practical projects and online resources
+
+## 🎯 Skills & Expertise
+
+- **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js
+- **Backend Development**: Node.js, Express.js, PHP, Python, Java
+- **Database Management**: MongoDB, MySQL, Database design and optimization
+- **DevOps & Tools**: Git, Docker, Linux, CI/CD pipelines, API development and integration
+- **Cloud & Infrastructure**: AWS services, Redis caching, Cloud deployment and management
+- **UI/UX**: Responsive design, Bootstrap, Tailwind CSS, Mobile-first approach
+- **Performance**: Code optimization, SEO best practices, Performance monitoring
+
+## 📫 Get In Touch
+
+<div align="center">
+  <a href="https://wa.me/918840859444" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://www.linkedin.com/in/satyendra-chaudhary-b958632b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/satyendrachaudhary143?igsh=YzljYTk1ODg3Zg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:satyendrachaudhary38@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+## 🌟 What I'm Working On
+
+- 🔭 **Currently**: School Management System development
+- 🌱 **Learning**: Advanced React patterns, TypeScript, and cloud deployment
+- 👨‍💻 **Next Goal**: AI/ML Development and Machine Learning projects
+
+## 📈 Recent Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyendrachaudhary&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
+
+## 🏆 Achievements
+
+- 🎯 Successfully deployed multiple web applications
+- 🚀 Built responsive and performant websites
+- 💡 Developed full-stack solutions from scratch
+- 🔧 Experience with modern development tools and practices
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyendrachaudhary&style=flat-square&color=blue" alt="Profile Views" />
+  
+  **Thanks for visiting my profile! Feel free to connect with me on any platform above.**
+</div>
